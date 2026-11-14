@@ -3,7 +3,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 
-const Home = () => {
+const Hero = () => {
   return (
     <section className="relative overflow-hidden bg-[#F4F8F6] text-[#183D43]">
 
@@ -114,4 +114,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Hero

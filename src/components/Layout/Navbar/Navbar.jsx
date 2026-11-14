@@ -23,7 +23,7 @@ const Navbar = () => {
           className="flex items-center gap-3"
           onClick={() => setMenuOpen(false)}
         >
-          <div className="flex h-12 w-12 items-center justify-center rounded-xl border-2 border-[#65D9B5] text-lg font-extrabold text-[#65D9B5]">
+          <div className="flex h-11 w-12 items-center justify-center rounded-lg border-2 border-[#65D9B5] text-lg font-extrabold text-[#65D9B5]">
             <img src="/src/assets/logo.png" alt="" />
           </div>
 
